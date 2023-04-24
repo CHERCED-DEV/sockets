@@ -9,8 +9,8 @@
     "start": "node dist"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "CHERCED",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
     "ncp": "^2.0.0",
